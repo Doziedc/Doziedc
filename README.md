@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Akujobi Daniel 👋
 
-<!--
-**Doziedc/Doziedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer & UI/UX Designer** based in Nigeria.
 
-Here are some ideas to get you started:
+I build responsive, accessible interfaces with React, Next.js, TypeScript, and Tailwind CSS. I like the part of frontend where design and code meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent Projects:**
+- 🎬 **[Movie Night](https://github.com/Doziedc/movie-night)** — A movie search app using the TMDB API with debouncing, pagination, and full API state handling.
+- ✅ **[Habit Tracker](https://github.com/Doziedc/habit-tracker)** — A dark-mode habit tracker with localStorage persistence and streak logic.
+- 🚗 **[Doz Motors](https://akujobidaniel.netlify.app/dozmotors/)** — A vanilla JavaScript car dealership site with dynamic filtering.
+
+**Find me:**
+[Portfolio](https://akujobidaniel.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/akujobi-daniel-45a561241)
